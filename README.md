@@ -5,6 +5,6 @@ This is the repository of the paper **"When Age Matters! Exploring the Ethics of
 # Structure of the replication package
 This replication package is organized according to the following structure.
 ```
-1. readme.md                  # the file you are reading right now.
-2.
+1. readme.md                      # the file you are reading right now.
+2. Expert Validation Results      # the file containing the results of the expert interviews
 ```
