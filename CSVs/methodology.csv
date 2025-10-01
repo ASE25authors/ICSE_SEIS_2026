@@ -1,0 +1,15 @@
+Methodology,Tool(s),# Tools
+ID,"AgeChecked, AgeID, Ageify, AU10TIX, BlueCheck, Entrust, Equifax, Experian, FaceTec, GBG, HyperVerge, ID.me, IDEMIA, iDenfy, IDMerit, IDnow, IDScan.net, Jumio, Konfirmi, LexisNexis, Melissa, Mitek, Ondato, Onfido, Passbase, Persona, Regula, Socure, Sumsub, Token of Trust, Trulioo, Veratad, Veriff, VerifyMyAge, Yoti",35
+Facial Analysis,"AgeChecked, AgeID, Ageify, BlueCheck, Equifax, Every Pixel, FaceTec, GBG, HyperVerge, IDEMIA, iDenfy, IDMerit, IDnow, Ondato, Onfido, Passbase, Persona, Regula, Socure, Sumsub, Tencent, Token of Trust, Trulioo, Trustmatic, Veratad, Veriff, VerifyMyAge, Yoti",28
+Liveness Detection,"HyperVerge, iDenfy, IDMerit, Ondato, Passbase, Socure, SumSub, Trustmatic, Yoti",9
+AI-based Biometric Analysis,"AgeVerif, Entrust, Every Pixel, Identomat, Jumio, Konfirmi, Visage Age detection",7
+Credit Card,"AgeChecked, Ageify, AgeVerif, Experian, VerifyMyAge, Yoti",6
+Database Check,"Experian, ID.me, IDEMIA, IDMerit, LexisNexis, Melissa",6
+Phone Number Check,"AgeChecked, BlueCheck, OneID, VerifyMyAge, Verime, Yoti",6
+Email Check,"AgeChecked, AgeVerif, VerifyMyAge",3
+Bank Details Check,"Equifax, OneID",2
+Third Party Check,AgeVerif,1
+Self Certication,AgeVerify,1
+Adress Check,BlueCheck,1
+Finger Print,ID.me,1
+Parental Control,Socure,1

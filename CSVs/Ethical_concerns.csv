@@ -1,0 +1,11 @@
+No,Ethical Concern,Description
+1,Privacy and Data Protection,"The system shall protect the personal data in any operations performed on it. The system shall prevent secondary uses such as profiling, marketing, etc., and prohibit the sharing of personal data with third parties without a lawful basis."
+2,Data Minimization,"The system shall collect only the minimum data necessary for age verification, avoiding unnecessary information requests."
+3,Consent granting,"The system shall inform users and explicitly ask their consent for data collection, use, storage, and transmission. The users shall be allowed to withdraw consent at any time in an accessible way."
+4,Security,The system shall protect the users requiring age verification from malicious attacks and data breaches. The system shall prevent tampering and adversarial manipulation leading to unauthorized access to the age-restricted service and the compromise of users' data.
+5,Transparency and Explainability,"The system shall be explainable by design, disclosing how age verification is performed, which data it collects, and how it is used, to ensure transparency and informed consent."
+6,Accuracy,"The system shall provide reliable and accurate age verification results, adopting solution for minimizing both false positives (granting access to underage users) and false negatives (denying access to eligible users)."
+7,Fairness,"The system shall not embed algorithmic or procedural biases, leading to unequal treatment of certain groups (e.g., ethnic minorities, gender groups, or age cohorts)."
+8,Accessibility and Social Inclusion,"The tool shall be accessible to all users, including those with limited digital literacy, undocumented individuals, or marginalized groups, disabled persons, etc., and avoid unjust exclusion from services requiring age verification."
+9,Responsibility and Accountability,"The system provider and its client (i.e., the service embedding the tool for age verification purposes) shall be responsible for any data they collect. In case of harm or misuse, they shall be held accountable under relevant regulations."
+10,Normative Compliance,"The system shall align with the legal frameworks (e.g., GDPR, COPPA, DSA, AI Act (in the European Union), UK Data Protection Act (in the UK), etc)."

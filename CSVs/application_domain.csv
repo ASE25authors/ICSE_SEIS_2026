@@ -1,0 +1,20 @@
+Domain,Tool(s),# Tools
+Generic,"AgeVerif, AgeVerify, AU10TIX, BlueCheck, Equifax, Experian, FaceTec, GBG, ID.me, IDEMIA, Identomat, IDnow, IDScan.net, LexisNexis, Melissa, Ondato, Passbase, Tencent, Trustmatic, Veriff, Yoti",21
+E-commerce,"AgeChecked, Every Pixel, HyperVerge, IDMerit, Jumio, OneID, Onfido, Persona, Sumsub, Token of Trust, Trulioo, Verated, VerifyMyAge, Verime, Visage Age detection",15
+Gaming,"Ageify, Entrust, HyperVerge, iDenfy, IDMerit, Konfirmi, Mitek, Persona, Sumsub, Trulioo, Verated, VerifyMyAge",12
+Gambling,"AgeChecked, Entrust, Every Pixel, HyperVerge, IDMerit, Konfirmi, Regula, Sumsub, Verated, Verime",10
+Alcohol & Tobacco,"AgeID, Ageify, Entrust, HyperVerge, iDenfy, Jumio, Mitek, Trulioo, Veratad",9
+Adult Content,"AgeChecked, AgeID, Ageify, Sumsub, Verated, VerifyMyAge, Verime",7
+Online Dating Sites,"Ageify, iDenfy, Jumio, Konfirmi, Persona, Sumsub, VerifyMyAge",7
+Pharmaceutical,"AgeChecked, Entrust, Mitek, Regula, Visage Age detection",5
+Social Media,"Entrust, ID.me, Onfido, Persona, Sumsub",5
+Finance,"Entrust, Sumsub, VerifyMyAge, Verime",4
+Entertainment,"Every Pixel, Persona, Trulioo",3
+Education,"Regula, Token of Trust",2
+Government Services,"Entrust, Regula",2
+Charity,AgeChecked,1
+Crypto,Regula,1
+Car Sharing,HyperVerge,1
+Telecom,"Onfido, Regula",1
+Banking,Regula,1
+Insurance,Regula,1

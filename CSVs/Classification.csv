@@ -1,0 +1,38 @@
+System,Privacy and Data Protection,Data Minimization,Consent Granting,Security,Transparency and Explainability,Accuracy,Fairness,Accessibility and Social Inclusion,Responsibility and Accountability,Normative Compliance
+AgeChecked,yes,no,no,yes,yes,no,no,yes,no,yes
+Ageify,partially,no,yes,no,yes,yes,no,yes,no,yes
+AgeVerif,partially,no,no,yes,yes,no,no,yes,yes,yes
+AgeVerify,partially,no,no,no,no,no,no,yes,no,no
+AU10TIX,partially,no,partially,no,yes,yes,no,no,no,yes
+BlueCheck,partially,no,partially,no,yes,no,no,yes,no,no
+Entrust,partially,no,partially,yes,yes,yes,no,yes,no,yes
+Equifax,partially,no,no,yes,yes,no,no,yes,yes,yes
+Every Pixel,partially,no,no,no,yes,no,no,yes,no,yes
+Experian,yes,no,no,yes,yes,no,no,no,yes,yes
+GBG,partially,no,no,no,yes,no,no,yes,no,yes
+HyperVerge,partially,no,no,yes,yes,yes,yes,yes,no,yes
+ID.me,partially,no,partially,yes,yes,no,no,no,no,yes
+IDEMIA,partially,no,partially,yes,yes,no,no,yes,yes,yes
+iDenfy,partially,no,partially,yes,yes,no,no,yes,no,yes
+IDMerit,partially,no,partially,yes,yes,no,no,yes,yes,yes
+IDnow,partially,no,no,yes,yes,no,no,yes,no,yes
+IDScan.net,partially,no,no,yes,yes,no,no,no,no,no
+Jumio,partially,no,no,yes,yes,no,no,yes,no,yes
+LexisNexis,partially,no,no,yes,yes,no,no,yes,no,no
+Melissa,partially,no,no,yes,yes,no,no,yes,no,yes
+Mitek,partially,no,partially,yes,yes,no,no,no,no,no
+Ondato,partially,no,no,yes,no,no,no,yes,yes,yes
+OneID,partially,no,partially,yes,yes,no,no,yes,no,yes
+Persona,partially,no,no,yes,yes,no,no,yes,yes,yes
+Regula,partially,no,no,yes,yes,no,yes,yes,yes,yes
+Socure,partially,no,no,yes,yes,yes,no,yes,yes,yes
+Sumsub,yes,no,no,yes,yes,no,no,yes,yes,yes
+Token of Trust,partially,no,no,yes,yes,no,no,yes,no,yes
+Trulioo,partially,no,no,yes,yes,no,no,yes,no,yes
+Trustmatic,yes,no,yes,yes,yes,yes,no,yes,no,yes
+Veratad,partially,no,no,yes,yes,no,no,yes,yes,yes
+Veriff,partially,no,no,yes,yes,no,no,yes,yes,yes
+VerifyMyAge,partially,no,no,yes,yes,no,no,yes,yes,yes
+Verime,partially,no,no,yes,yes,no,no,no,yes,yes
+Visage Age detection,partially,no,no,no,yes,yes,no,yes,yes,yes
+Yoti,partially,no,no,yes,yes,no,no,yes,yes,yes
